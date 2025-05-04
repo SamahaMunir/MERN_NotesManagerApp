@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d3e7e97a2c8839245076ec2aadcb18ee5436283a SamahaMunir <119500740+SamahaMunir@users.noreply.github.com> 1746092897 +0500	clone: from https://github.com/SamahaMunir/MERN_NotesManagerApp.git
+d3e7e97a2c8839245076ec2aadcb18ee5436283a e6579112d061e1e38b6a6f4793ba4ff70ab4600e SamahaMunir <119500740+SamahaMunir@users.noreply.github.com> 1746097959 +0500	commit: added backend and frontend folders
+e6579112d061e1e38b6a6f4793ba4ff70ab4600e 37c799c97cd08d9589bbcd848615d32537bec063 SamahaMunir <119500740+SamahaMunir@users.noreply.github.com> 1746189991 +0500	commit: backend + CRUP API ready
+37c799c97cd08d9589bbcd848615d32537bec063 f316861ffdc3f8fe50a2e0a4efb99d5b49e16ed0 SamahaMunir <119500740+SamahaMunir@users.noreply.github.com> 1746384332 +0500	commit: React setup, Axios added, notes fetched and displayed
