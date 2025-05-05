@@ -18,7 +18,7 @@ const NotesList = () => {
         <p>No notes yet!</p>
       ) : (
         notes.map(note => (
-          <div key={note._id} style={{ border: '1px solid gray', padding: '10px', margin: '10px' }}>
+          <div key={note._id} style={{ 'border': '1px solid gray', 'padding': '10px', 'margin': '10px' }}>
             <h3>{note.title}</h3>
             <p>{note.content}</p>
           </div>
