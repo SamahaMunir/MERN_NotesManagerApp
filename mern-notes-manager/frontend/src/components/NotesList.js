@@ -13,7 +13,7 @@ const NotesList = () => {
 
   return (
     <div>
-      <h2>Notes</h2>
+      <h2>Notes App</h2>
       {notes.length === 0 ? (
         <p>No notes yet!</p>
       ) : (
