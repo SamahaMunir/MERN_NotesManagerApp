@@ -69,5 +69,4 @@ npm start
 
 ## 📸 Screenshot
 
-![App Screenshot](./C:\Users\Lenovo\Documents\GitHub\MERN_NotesManagerApp\mern-notes-manager\images\screenshot.PNG)
-
+![App Screenshot](mern-notes-manager/images/screenshot.PNG)
