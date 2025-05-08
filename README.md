@@ -67,3 +67,7 @@ npm start
 
 - Visit the frontend at http://localhost:3000
 
+## 📸 Screenshot
+
+![App Screenshot](./C:\Users\Lenovo\Documents\GitHub\MERN_NotesManagerApp\mern-notes-manager\images\screenshot.PNG)
+
